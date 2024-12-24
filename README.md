@@ -81,41 +81,10 @@ I have a Master's degree🎓 from [@Nitte School Of Management](https://www.odu.
     <a href=https://seaborn.pydata.org/ target=_blank rel=noreferrer>  
         <img src=https://seaborn.pydata.org/_images/logo-mark-lightbg.svg alt=seaborn width=40 height=40/>  
     </a>  
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.javascript.com/images/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-</a>
 
-<a href="https://www.orange.biolab.si/" target="_blank" rel="noreferrer">
-    <img src="https://orange.biolab.si/Orange3.png" alt="Orange Software" width="40" height="40"/>
-</a>
-
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
-</a>
-
-<a href="https://www.sap.com/products/hana.html" target="_blank" rel="noreferrer">
-    <img src="https://www.sap.com/dam/application/shared/images/sap-logo.png" alt="SAP HANA" width="40" height="40"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://static2.microsoft.com/ww/img/office/office365/logo/excel.svg" alt="MS Office Excel" width="40" height="40"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://powerbi.microsoft.com/pictures/powerbi-logo.svg" alt="Power BI" width="40" height="40"/>
-</a>
-
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.tableau.com/sites/default/files/2021-01/Tableau-Logo-Black.png" alt="Tableau" width="40" height="40"/>
-</a>
-
-    <!-- <a href=https://www.tensorflow.org target=_blank rel=noreferrer>  
-        <img src=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg alt=tensorflow width=40 height=40/>  
-    </a> -->
+  
 </p>
 
-
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeharikaputcha9&show_icons=true&locale=en&layout=compact" alt="neeharikaputcha9" /></p> -->
 
 
 <!--
