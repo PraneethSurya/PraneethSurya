@@ -5,7 +5,8 @@
 ### 📬 Connect with me on
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/PraneethSurya?tab=repositories) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/praneeth-surya/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:praneethmanisurya@yahoo.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
+
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I have a Master's degree🎓 from [@Nitte School Of Management](https://www.odu.edu/) in Business Analytics. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. 🚀 I thrive on cracking business puzzles and uncovering hidden data stories. I enjoy turning those numbers into epic stories! <br/><br/>
