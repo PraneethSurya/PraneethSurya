@@ -11,7 +11,7 @@
 I have a Master's degree🎓 from [@Nitte School Of Management](https://www.odu.edu/) in Business Analytics. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. 🚀 I thrive on cracking business puzzles and uncovering hidden data stories. I enjoy turning those numbers into epic stories! <br/><br/>
 
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on **Buidling Interactive Dashboard for Generating company insights**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning 
@@ -75,12 +75,41 @@ I have a Master's degree🎓 from [@Nitte School Of Management](https://www.odu.
     <!-- <a href=https://pytorch.org/ target=_blank rel=noreferrer> 
         <img src=https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg alt=pytorch width=40 height=40/> 
     </a>   -->
-    <a href=https://scikit-learn.org/ target=_blank rel=noreferrer>  
-        <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg alt=scikit_learn width=40 height=40/>  
-    </a>  
-    <a href=https://seaborn.pydata.org/ target=_blank rel=noreferrer>  
-        <img src=https://seaborn.pydata.org/_images/logo-mark-lightbg.svg alt=seaborn width=40 height=40/>  
-    </a>  
+<!-- JavaScript -->
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+
+<a href="https://orange.biolab.si/" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/Orange_S.A./Orange_S.A.-Logo.wine.svg" alt="Orange Software" width="40" height="40"/>
+</a>
+
+
+<!-- Jupyter Notebook -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+</a>
+
+<!-- Microsoft Excel -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/Microsoft_Office/Microsoft_Office-Logo.wine.svg" alt="MS Office Excel" width="40" height="40"/>
+</a>
+
+<a href="https://www.sap.com/products/erp/sales-distribution.html" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/SAP_SE/SAP_SE-Logo.wine.svg" alt="SAP SD" width="100" height="40"/>
+</a>
+
+
+<!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/Power_BI/Power_BI-Logo.wine.svg" alt="Power BI" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(82%) sepia(92%) saturate(576%) hue-rotate(0deg) brightness(107%) contrast(101%);"/>
+</a>
+
+
+<!-- Tableau -->
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+</a>
 
   
 </p>
