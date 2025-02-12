@@ -9,7 +9,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I have a Master's degree🎓 from [@Nitte School Of Management](https://www.odu.edu/) in Business Analytics. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. 🚀 I thrive on cracking business puzzles and uncovering hidden data stories. I enjoy turning those numbers into epic stories! <br/><br/>
+I have a Master's degree🎓 from [@Nitte School Of Management]([https://www.odu.edu/](https://www.linkedin.com/school/nitte-school-of-management/posts/?feedView=all)) in Business Analytics. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. 🚀 I thrive on cracking business puzzles and uncovering hidden data stories. I enjoy turning those numbers into epic stories! <br/><br/>
 
 
 - 😄 Pronouns: He/Him
